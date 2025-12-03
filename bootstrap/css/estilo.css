@@ -133,7 +133,7 @@ footer{
   text-align: center;
 }
 
-/* Correções e ajustes no carousel para que a imagem preencha corretamente o slide */
+
 /* REMOVER override de display:block e restaurar comportamento padrão do Bootstrap */
 .carousel {
   overflow: hidden; /* evita que elementos "saíam" do container */
@@ -205,4 +205,5 @@ footer{
   margin: 0;
   line-height: 1;
 }
+
 
